@@ -1,12 +1,6 @@
----
-permalink: /
-title: "About DSI Dataset"
-excerpt: "About DSI Dataset"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
+
+ * "About DSI Dataset"
+
 
 Dynamic spectral images datasets are intended to define tasks that are distinct from those defined for traditional hyperspectral/multispectral image datasets.
 
